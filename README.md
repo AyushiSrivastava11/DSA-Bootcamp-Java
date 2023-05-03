@@ -1,6 +1,6 @@
 
 # 🔥DSA-Bootcamp-Java
--I have started Kunal Kushwaha's Bootcamp and i m so excited
+-I have started Kunal Kushwaha's Bootcamp and I am so excited!
 
 - Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 
